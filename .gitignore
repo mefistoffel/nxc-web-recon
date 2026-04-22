@@ -1,0 +1,9 @@
+# Binaries
+*.exe
+revershell
+revershell_linux
+revershell_arm64
+
+# IDE folders
+.vscode/
+.idea/
