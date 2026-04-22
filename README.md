@@ -2,7 +2,8 @@
 
 A custom native protocol for **NetExec (NXC)** designed for rapid web reconnaissance. This module allows you to grab HTTP(S) `<title>` tags across large networks without the overhead of database management.
 
-## 🚀 Features - **Fast Scanning:** Uses low-level socket checks to verify port status before initiating HTTP requests. - **Dynamic Port Support:** Fully compatible with the --port` flags (e.g., `--port 8080`, `--port 8000`). - **Auto-HTTPS:** Automatically switches to `https://` schema for ports 443 and 8443. - **Clean Output:** Displays HTTP status codes and sanitized page titles directly in the NXC console. - **Native Integration:** Follows the NXC protocol folder structure for better compatibility.
+## 🚀 Features 
+**Fast Scanning:** Uses low-level socket checks to verify port status before initiating HTTP requests. - **Dynamic Port Support:** Fully compatible with the --port` flags (e.g., `--port 8080`, `--port 8000`). - **Auto-HTTPS:** Automatically switches to `https://` schema for ports 443 and 8443. - **Clean Output:** Displays HTTP status codes and sanitized page titles directly in the NXC console. - **Native Integration:** Follows the NXC protocol folder structure for better compatibility.
 
 
 ## 🛠 Installation
